@@ -253,6 +253,9 @@
 			"CHP ANC, Visit type": {
 				"required": true
 			},
+			"IMAM-Visit type": {
+                                "required": true
+                        },
 			"CHP ANC, Follow up": {
 				"required": false,
 				"allowFutureDates": true
