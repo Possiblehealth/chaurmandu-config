@@ -226,6 +226,9 @@
 			"ART, ART ART side effects": {
 				"multiSelect": true
 			},
+			"ANC-High Risk Pregnancy Diagnosis": {
+                                "multiSelect": true
+                        },
 			"CHP Registration, VDC Number": {
 				"required": true
 			},
