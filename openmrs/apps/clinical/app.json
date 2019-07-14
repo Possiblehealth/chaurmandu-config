@@ -1845,7 +1845,7 @@
 			},
 			"Snake bite-Fang mark": {
 				"required": true
-			},
+			}
 		},
 		"visitPage": {
 			"observationDisplay": {
