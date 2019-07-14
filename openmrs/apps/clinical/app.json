@@ -227,9 +227,9 @@
 				"multiSelect": true
 			},
 			"ANC-High Risk Pregnancy Diagnosis": {
-                                "multiSelect": true
-                        },
-			"CHP Registration, VDC Number": {
+				"multiSelect": true
+			},
+			"CHP Registration, VDCvery Note, Blood transfusion provided": {
 				"required": true
 			},
 			"CHP Registration, Ward Number": {
@@ -254,9 +254,12 @@
 				"required": true
 			},
 			"IMAM-Visit type": {
-                                "required": true
-                        },
+				"required": true
+			},
 			"CHP ANC, Follow up": {
+				"required": true
+			},
+			"Delivery Note, Blood transfusion quantity": {
 				"required": false,
 				"allowFutureDates": true
 			},
@@ -940,10 +943,7 @@
 				"required": true
 			},
 			"Delivery Note, Blood transfusion provided": {
-				"required": true
-			},
-			"Delivery Note, Blood transfusion quantity": {
-				"required": true
+				"required": false
 			},
 			"Discharge note, Inpatient outcome": {
 				"required": true
@@ -1122,7 +1122,7 @@
 			},
 			"HIVTC, Followup": {
 				"required": true,
-				"allowFutureDates":true
+				"allowFutureDates": true
 			},
 			"Hypertension, Patient at Treatment Goal": {
 				"required": true
@@ -1827,7 +1827,7 @@
 			"Leprosy, FollowUp": {
 				"allowFutureDates": true
 			},
-			"Snake bite-If yes where" :{
+			"Snake bite-If yes where": {
 				"multiSelect": true
 			},
 			"Snake bite-Local symptoms": {
